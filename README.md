@@ -24,6 +24,7 @@
 
 | Project | What it does |
 |---------|--------------|
+| **[tradingview-indicators](https://github.com/Viprasol-Tech/tradingview-indicators)** | **30 open-source TradingView indicators** — the Pine Script source behind our published scripts, with 14,500+ boosts on TradingView. |
 | **[edgehunt](https://github.com/Viprasol-Tech/edgehunt)** | Find the edge in prediction markets — cross-venue **arbitrage**, fee-adjusted **EV** & **Kelly** sizing, in one command (Kalshi + Polymarket). |
 | **[marketsmith](https://github.com/Viprasol-Tech/marketsmith)** | **MCP server** that gives any AI agent an edge in prediction markets — search, odds, arbitrage, EV. |
 | **[agentcheck](https://github.com/Viprasol-Tech/agentcheck)** | **Regression testing for AI agents** — snapshot tool-calls, diff in CI, fail on regressions. A GitHub Action. |
@@ -60,7 +61,8 @@
 [trading-bot-framework](https://github.com/Viprasol-Tech/trading-bot-framework) ·
 [mt5-expert-advisor](https://github.com/Viprasol-Tech/mt5-expert-advisor) ·
 [mt4-expert-advisor](https://github.com/Viprasol-Tech/mt4-expert-advisor) ·
-[pine-script-strategy](https://github.com/Viprasol-Tech/pine-script-strategy)
+[pine-script-strategy](https://github.com/Viprasol-Tech/pine-script-strategy) ·
+[tradingview-indicators](https://github.com/Viprasol-Tech/tradingview-indicators)
 
 **🤖 AI & agents**<br>
 [marketsmith](https://github.com/Viprasol-Tech/marketsmith) ·
