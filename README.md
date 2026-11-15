@@ -75,7 +75,6 @@
 [semcache](https://github.com/Viprasol-Tech/semcache) ·
 [ai-agent-framework](https://github.com/Viprasol-Tech/ai-agent-framework) ·
 [rag-pipeline](https://github.com/Viprasol-Tech/rag-pipeline) ·
-[semantic-search](https://github.com/Viprasol-Tech/semantic-search) ·
 [llm-chatbot-template](https://github.com/Viprasol-Tech/llm-chatbot-template) ·
 [openai-function-calling-example](https://github.com/Viprasol-Tech/openai-function-calling-example) ·
 [document-qa](https://github.com/Viprasol-Tech/document-qa) ·
