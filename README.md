@@ -81,7 +81,7 @@
 [ai-customer-support-bot](https://github.com/Viprasol-Tech/ai-customer-support-bot) ·
 [chatbot-widget](https://github.com/Viprasol-Tech/chatbot-widget)
 
-**🎁 Claude Code plugin packs** — install in two commands, then just ask · [claude-trading-skills](https://github.com/Viprasol-Tech/claude-trading-skills) (Pine Script v6, MQL5 EAs, backtest audits, position sizing) · [claude-fintech-skills](https://github.com/Viprasol-Tech/claude-fintech-skills) (payments, ledgers, webhooks, PCI, KYC/AML) · [claude-video-editing-skills](https://github.com/Viprasol-Tech/claude-video-editing-skills) (95-skill local video editor)
+**🎁 Claude Code plugin packs** — install in two commands, then just ask · [claude-trading-skills](https://github.com/Viprasol-Tech/claude-trading-skills) (Pine Script v6, MQL5 EAs, backtest audits, position sizing) · [claude-fintech-skills](https://github.com/Viprasol-Tech/claude-fintech-skills) (payments, ledgers, webhooks, PCI, KYC/AML) · [claude-india-stack-skills](https://github.com/Viprasol-Tech/claude-india-stack-skills) (UPI, GST, Aadhaar, Account Aggregator, DPDP) · [claude-video-editing-skills](https://github.com/Viprasol-Tech/claude-video-editing-skills) (95-skill local video editor)
 
 **🧩 Agent Skills** — portable fintech skills for Claude Code, Codex, Cursor & 26+ tools · **hub: [viprasol-agent-skills](https://github.com/Viprasol-Tech/viprasol-agent-skills)**<br>
 [smart-contract-audit](https://github.com/Viprasol-Tech/smart-contract-audit) ·
